@@ -16,7 +16,7 @@ A powerful RESTful API for managing tasks, built with Django and Django REST Fra
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone <repository_url>
+   git clone <https://github.com/Aman1622/Task-Manager-API>
    cd TaskAPI
    \`\`\`
 
